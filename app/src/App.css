@@ -1,0 +1,24 @@
+
+
+.video-container{
+  position: relative;
+}
+
+.video-js{
+  height: auto;
+  position: center;
+}
+
+.overlay-controls{
+  margin-top: 20px;
+}
+
+.overlay-list{
+  margin-top: 20px;
+}
+
+.overlay-item{
+  display: flex;
+  margin-bottom: 10px;
+  margin-right: 30px;
+}
